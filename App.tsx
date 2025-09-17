@@ -6,17 +6,17 @@ const INITIAL_CARDS: CardData[] = [
   {
     id: 1,
     frontText: "I miss you",
-    backImage: "C:\Users\rishi\OneDrive\her\1.jpg"
+    backImage: "C:\Users\rishi\OneDrive\her\Onn.jpg"
   },
   {
     id: 2,
     frontText: "Remember this?",
-    backImage: "C:\Users\rishi\OneDrive\her\2.jpg"
+    backImage: "C:\Users\rishi\OneDrive\her\Randu.jpg"
   },
   {
     id: 3,
     frontText: "For better times",
-    backImage: "C:\Users\rishi\OneDrive\her\3.jpg"
+    backImage: "C:\Users\rishi\OneDrive\her\Moon.jpg"
   }
 ];
 
