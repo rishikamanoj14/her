@@ -1,0 +1,5 @@
+{
+  "name": "Webby",
+  "description": "A heartfelt web application to express apologies using animated flip cards. Users can add their own memorable photos, which are displayed on the back of cards with apologetic notes on the front.",
+  "requestFramePermissions": []
+}
